@@ -1,7 +1,7 @@
 # FaultDating
 Interpreting the development sequence and period of faults via digital geological map
 
-# Dependcies needed
+## Dependcies needed
 arcgis engine 10.2
 
 ## Input data
